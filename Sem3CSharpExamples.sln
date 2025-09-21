@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AbstractClassDemo", "AbstractClassDemo\AbstractClassDemo.csproj", "{ACBD323A-46E3-4A70-9CAB-5EA7B27D961B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MethodHidingDemo", "MethodHidingDemo\MethodHidingDemo.csproj", "{24366839-47A4-4D0D-92BC-C538E229AC26}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FloatComparisonDemo", "FloatComparisonDemo\FloatComparisonDemo.csproj", "{6241C41D-D824-4A1C-8E37-14D4965F94D6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MethodOverrideDemo", "MethodOverrideDemo\MethodOverrideDemo.csproj", "{F329AB9D-D98D-4EFE-8557-6D3C95FF9AF4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ACBD323A-46E3-4A70-9CAB-5EA7B27D961B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ACBD323A-46E3-4A70-9CAB-5EA7B27D961B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ACBD323A-46E3-4A70-9CAB-5EA7B27D961B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ACBD323A-46E3-4A70-9CAB-5EA7B27D961B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{24366839-47A4-4D0D-92BC-C538E229AC26}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{24366839-47A4-4D0D-92BC-C538E229AC26}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{24366839-47A4-4D0D-92BC-C538E229AC26}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{24366839-47A4-4D0D-92BC-C538E229AC26}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6241C41D-D824-4A1C-8E37-14D4965F94D6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6241C41D-D824-4A1C-8E37-14D4965F94D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6241C41D-D824-4A1C-8E37-14D4965F94D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6241C41D-D824-4A1C-8E37-14D4965F94D6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F329AB9D-D98D-4EFE-8557-6D3C95FF9AF4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F329AB9D-D98D-4EFE-8557-6D3C95FF9AF4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F329AB9D-D98D-4EFE-8557-6D3C95FF9AF4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F329AB9D-D98D-4EFE-8557-6D3C95FF9AF4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
