@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 18
-VisualStudioVersion = 18.1.11312.151 d18.0
+VisualStudioVersion = 18.1.11312.151
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AbstractClassDemo", "AbstractClassDemo\AbstractClassDemo.csproj", "{ACBD323A-46E3-4A70-9CAB-5EA7B27D961B}"
 EndProject
@@ -12,6 +12,8 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MethodOverrideDemo", "MethodOverrideDemo\MethodOverrideDemo.csproj", "{F329AB9D-D98D-4EFE-8557-6D3C95FF9AF4}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AsyncAwaitDemo", "AsyncAwaitDemo\AsyncAwaitDemo.csproj", "{63FCDAF2-FDD5-4E33-88BD-00D8B17751F0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AsyncAwaitCpuBoundDemo", "AsyncAwaitCpuBoundDemo\AsyncAwaitCpuBoundDemo.csproj", "{7062A68A-E6F5-4787-A388-21C5868C29E1}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +41,10 @@ Global
 		{63FCDAF2-FDD5-4E33-88BD-00D8B17751F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{63FCDAF2-FDD5-4E33-88BD-00D8B17751F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{63FCDAF2-FDD5-4E33-88BD-00D8B17751F0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7062A68A-E6F5-4787-A388-21C5868C29E1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7062A68A-E6F5-4787-A388-21C5868C29E1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7062A68A-E6F5-4787-A388-21C5868C29E1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7062A68A-E6F5-4787-A388-21C5868C29E1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
